@@ -48,6 +48,7 @@ src="https://github-readme-stats.vercel.app/api?username=bijoysaga&show_icons=tr
 
  
  <h2 align="center">My contribution Streak 🔥</h2>
+<p align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=bijoysaga&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 
   <h2 align="center">Frequently used Language 📺</h2>
